@@ -25,7 +25,7 @@
 ### ✅ Fitur:
 - Atribut `ipk` dibuat `private`
 - Menggunakan getter dan setter
-- Method `cekKelulusan()`
+- Method `checkApproval()`
 - Method `updateIpk()`
 - Input pengguna menggunakan `Scanner`
 - Validasi pencarian NIM
@@ -39,7 +39,7 @@
 # 🔹 Soal 3 – Predikat Akademik
 
 ### ✅ Fitur:
-- Method `hitungPredikat()`
+- Method `calculatePredicate()`
 - Menentukan predikat berdasarkan rentang IPK:
   - ≥ 3.75 → Dengan Pujian
   - 3.50 – 3.74 → Sangat Memuaskan
